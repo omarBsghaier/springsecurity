@@ -26,7 +26,6 @@ public class StudentController {
             .orElseThrow( () -> new IllegalStateException("Student" + studentId +"no exist ")) ;
 
 }
-//aprendre plus sur les stream
-// BASIC AUTH OVERVIEW
+
 }
 

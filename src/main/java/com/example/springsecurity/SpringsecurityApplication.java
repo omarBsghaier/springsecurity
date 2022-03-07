@@ -10,5 +10,6 @@ public class SpringsecurityApplication {
 		SpringApplication.run(SpringsecurityApplication.class, args);
 		System.out.println("succes");
 	}
-
+//aprendre plus sur les stream
+// @BEANS @Authorod
 }
